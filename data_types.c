@@ -10,7 +10,7 @@ int main()
     float ing = 13.37;
     double under = 11;
     //boolean
-    void;
+    //void;
 
     printf('\n char var: %c', mander);
     printf('\n short var');
